@@ -1,0 +1,23 @@
+﻿{
+  "version": "3.0.0-alpha01",
+  "title": "SimplePersistence.Model.NH",
+  "summary": "Model specific implementations and helpers for the NHibernate 4",
+  "description": "Model specific implementations and helpers for the NHibernate 4",
+  "authors": [ "João Simões" ],
+  "tags": [ "database", "model", "persistence", "NHibernate 4", "NH4" ],
+  "projectUrl": "https://github.com/SimplePersistence/SimplePersistence.Model.NH",
+  "licenseUrl": "https://github.com/SimplePersistence/SimplePersistence.Model.NH/blob/master/LICENSE",
+  "iconUrl": "https://avatars3.githubusercontent.com/u/17026510",
+  "language": "en-US",
+  "copyright": "Copyright © 2016 SimplePersistence",
+  "releaseNotes": "",
+
+  "frameworks": {
+    "net40": { },
+    "net45": { }
+  },
+  "dependencies": {
+    "NHibernate": "4.0.0.4000",
+    "SimplePersistence.Model": "3.0.0"
+  }
+}
